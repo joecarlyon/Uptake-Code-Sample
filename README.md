@@ -5,6 +5,8 @@ Code sample for my Uptake interview for an automation position
 * Ruby must be installed
 * ```ruby --version```
 * http://rubyinstaller.org/downloads/
+* Bundler must be installed
+* ```gem install bundler```
 
 # HOW TO USE
 * Run ```run_tests.sh```
